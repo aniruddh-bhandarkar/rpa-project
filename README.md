@@ -1,5 +1,5 @@
 # rpa-project
-RPA Project done during mid 2021
+RPA Project done from the start of 2022 to the month of July in 2022
 Robotic Process Automation(RPA) has application in many fields including Business Admistration, Finance Automation.
 
 It does not require programming Language other than the RPA platform.The building block of RPA is Application Program Interface(API).
